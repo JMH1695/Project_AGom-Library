@@ -1,152 +1,221 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\AGomProject1206\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\librarymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:librarymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\librarymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:librarymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\loanstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\libraryinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:libraryinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\loanstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loanstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\loanstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loanstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\membermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:membermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\memberinfoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:memberinfoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\membermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\membermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:membermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\bookborrowtrendform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookborrowtrendform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\bookborrowtrendform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookborrowtrendform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\editbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:editbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\editbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:editbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\memberinfoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:memberinfoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\memberinfoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:memberinfoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\ebookviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:ebookviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\findpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:findpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\findemailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:findemailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\bookmapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookmapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\findpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:findpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\findemailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:findemailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\project_self-driving-car\\agom-library\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AGomProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\aichatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\aichatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:aichatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\bookmapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\bookmapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookmapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\bookmapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookmapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mypageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\mypageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mypageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\bookmapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\bookmapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookmapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\mapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mapform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\bookmapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\bookmapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookmapform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\bookborrowtrendform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookborrowtrendform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -156,200 +225,67 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoanStatusForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoanStatusForm.cs",
-              "RelativeDocumentMoniker": "LoanStatusForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoanStatusForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "LoanStatusForm.cs [\uB514\uC790\uC778]",
+              "DocumentIndex": 0,
+              "Title": "LibraryManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LibraryManagementForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LibraryManagementForm.cs",
+              "RelativeToolTip": "LibraryManagementForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:28:34.71Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MemberInfoEditForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MemberInfoEditForm.cs",
-              "RelativeDocumentMoniker": "MemberInfoEditForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MemberInfoEditForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "MemberInfoEditForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:28:30.852Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MemberManagementForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MemberManagementForm.cs",
-              "RelativeDocumentMoniker": "MemberManagementForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MemberManagementForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "MemberManagementForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:28:29.541Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MapForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.cs",
-              "RelativeDocumentMoniker": "MapForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "MapForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:03:47.908Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-11-17T11:00:07.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MainForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
+              "Title": "LoanStatusForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LoanStatusForm.cs",
+              "RelativeDocumentMoniker": "LoanStatusForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LoanStatusForm.cs",
+              "RelativeToolTip": "LoanStatusForm.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:01:55.531Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
-              "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "LoginForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T07:39:26.008Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
-              "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
-              "RelativeToolTip": "LoginForm.cs",
-              "ViewState": "AgIAADABAAAAAAAAAAAAAEMBAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T07:39:27.607Z",
+              "WhenOpened": "2025-11-17T10:59:58.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "MemberManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MemberManagementForm.cs",
+              "RelativeDocumentMoniker": "MemberManagementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MemberManagementForm.cs",
+              "RelativeToolTip": "MemberManagementForm.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAqwMUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:28:13.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NewBookForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\NewBookForm.cs",
-              "RelativeDocumentMoniker": "NewBookForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\NewBookForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "NewBookForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:28:17.343Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "RegisterForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\RegisterForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "RegisterForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:28:13.248Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StatisticsForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\StatisticsForm.cs",
-              "RelativeDocumentMoniker": "StatisticsForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\StatisticsForm.cs",
-              "RelativeToolTip": "StatisticsForm.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAswIsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:28:03.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StatisticsForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\StatisticsForm.cs",
-              "RelativeDocumentMoniker": "StatisticsForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\StatisticsForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "StatisticsForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T10:28:02.128Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AIChatForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs",
-              "RelativeDocumentMoniker": "AIChatForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs",
-              "RelativeToolTip": "AIChatForm.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAswKgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:44:26.684Z",
+              "WhenOpened": "2025-11-17T10:59:45.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DatabaseConfig.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\DatabaseConfig.cs",
-              "RelativeDocumentMoniker": "DatabaseConfig.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\DatabaseConfig.cs",
-              "RelativeToolTip": "DatabaseConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "BookBorrowTrendForm .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookBorrowTrendForm .cs",
+              "RelativeDocumentMoniker": "BookBorrowTrendForm .cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookBorrowTrendForm .cs",
+              "RelativeToolTip": "BookBorrowTrendForm .cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAqwDABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:24:59.121Z",
+              "WhenOpened": "2025-11-11T03:11:54.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SelectBookForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs",
-              "RelativeDocumentMoniker": "SelectBookForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "SelectBookForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:07:43.242Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "RentalReservationForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\RentalReservationForm.cs",
               "RelativeDocumentMoniker": "RentalReservationForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\RentalReservationForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "RentalReservationForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T03:00:59.992Z",
@@ -357,60 +293,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AGomProject",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AGomProject.csproj",
-              "RelativeDocumentMoniker": "AGomProject.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AGomProject.csproj",
-              "RelativeToolTip": "AGomProject.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-13T03:14:52.931Z",
+              "DocumentIndex": 1,
+              "Title": "LibraryManagementForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LibraryManagementForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LibraryManagementForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "LibraryManagementForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:50:13.016Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryInventoryForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LibraryInventoryForm.cs",
+              "RelativeDocumentMoniker": "LibraryInventoryForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LibraryInventoryForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "LibraryInventoryForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:50:09.988Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookBorrowTrendForm .cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookBorrowTrendForm .cs",
+              "RelativeDocumentMoniker": "BookBorrowTrendForm .cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookBorrowTrendForm .cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BookBorrowTrendForm .cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:50:00.557Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\StatisticsForm.cs",
+              "RelativeToolTip": "StatisticsForm.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAmwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:03.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookListForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs",
-              "RelativeDocumentMoniker": "BookListForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "BookListForm.cs [\uB514\uC790\uC778]",
+              "DocumentIndex": 4,
+              "Title": "LoanStatusForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LoanStatusForm.cs",
+              "RelativeDocumentMoniker": "LoanStatusForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LoanStatusForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "LoanStatusForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T11:03:10.295Z",
+              "WhenOpened": "2025-11-17T10:28:34.71Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AdminForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AdminForm.cs",
+              "DocumentIndex": 11,
+              "Title": "StatisticsForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\StatisticsForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "StatisticsForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:02.128Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\EditBookForm.cs",
+              "RelativeDocumentMoniker": "EditBookForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\EditBookForm.cs",
+              "RelativeToolTip": "EditBookForm.cs",
+              "ViewState": "AgIAAPkDAAAAAAAAAAAowB4EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:57:59.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberManagementForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MemberManagementForm.cs",
+              "RelativeDocumentMoniker": "MemberManagementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MemberManagementForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MemberManagementForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:29.541Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditBookForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\EditBookForm.cs",
+              "RelativeDocumentMoniker": "EditBookForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\EditBookForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "EditBookForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:53:31.617Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\NewBookForm.cs",
+              "RelativeDocumentMoniker": "NewBookForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\NewBookForm.cs",
+              "RelativeToolTip": "NewBookForm.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAkwJ0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:57:28.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AdminForm.cs",
               "RelativeDocumentMoniker": "AdminForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AdminForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "AdminForm.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T11:03:16.068Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SelectBookForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs",
-              "RelativeDocumentMoniker": "SelectBookForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs",
-              "RelativeToolTip": "SelectBookForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:07:44.336Z",
+              "WhenOpened": "2025-11-17T10:57:07.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "AIChatForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs",
+              "Title": "SelectBookForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\SelectBookForm.cs",
+              "RelativeDocumentMoniker": "SelectBookForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\SelectBookForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "SelectBookForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:07:43.242Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AIChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AIChatForm.cs",
               "RelativeDocumentMoniker": "AIChatForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AIChatForm.cs",
+              "RelativeToolTip": "AIChatForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:44:26.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AIChatForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AIChatForm.cs",
+              "RelativeDocumentMoniker": "AIChatForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AIChatForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "AIChatForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T11:00:02.186Z",
@@ -418,50 +466,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AIChatForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.Designer.cs",
-              "RelativeDocumentMoniker": "AIChatForm.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.Designer.cs",
-              "RelativeToolTip": "AIChatForm.Designer.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAAAgwNkAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "MemberInfoEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MemberInfoEditForm.cs",
+              "RelativeDocumentMoniker": "MemberInfoEditForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MemberInfoEditForm.cs",
+              "RelativeToolTip": "MemberInfoEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:47:40.083Z",
+              "WhenOpened": "2025-11-17T10:53:43.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 15,
+              "Title": "NewBookForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\NewBookForm.cs",
+              "RelativeDocumentMoniker": "NewBookForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\NewBookForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "NewBookForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:17.343Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AdminForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "AdminForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:03:16.068Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "MyPageForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MyPageForm.cs",
               "RelativeDocumentMoniker": "MyPageForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MyPageForm.cs",
               "RelativeToolTip": "MyPageForm.cs",
-              "ViewState": "AgIAAJgBAAAAAAAAAAAswKwBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADMCAAAAAAAAAAAiwFUCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T03:11:55.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BookListForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs",
-              "RelativeDocumentMoniker": "BookListForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs",
-              "RelativeToolTip": "BookListForm.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAuwMwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:09:52.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "MyPageForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MyPageForm.cs",
               "RelativeDocumentMoniker": "MyPageForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MyPageForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "MyPageForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T07:24:43.755Z",
@@ -470,10 +529,85 @@
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "CartForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\CartForm.cs",
+              "Title": "MapForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MapForm.cs",
+              "RelativeDocumentMoniker": "MapForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MapForm.cs",
+              "RelativeToolTip": "MapForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:51:36.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MapForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MapForm.cs",
+              "RelativeDocumentMoniker": "MapForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MapForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MapForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:03:47.908Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemberInfoEditForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MemberInfoEditForm.cs",
+              "RelativeDocumentMoniker": "MemberInfoEditForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MemberInfoEditForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MemberInfoEditForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:30.852Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RentalReservationForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\RentalReservationForm.cs",
+              "RelativeDocumentMoniker": "RentalReservationForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\RentalReservationForm.cs",
+              "RelativeToolTip": "RentalReservationForm.cs",
+              "ViewState": "AgIAANgBAAAAAAAAAAAYwPQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:02:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EbookViewerForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\EbookViewerForm.cs",
+              "RelativeDocumentMoniker": "EbookViewerForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\EbookViewerForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "EbookViewerForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:50:06.829Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\CartForm.cs",
               "RelativeDocumentMoniker": "CartForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\CartForm.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\CartForm.cs",
+              "RelativeToolTip": "CartForm.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAcwBcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:15:12.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\CartForm.cs",
+              "RelativeDocumentMoniker": "CartForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\CartForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "CartForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T02:15:11.77Z",
@@ -481,50 +615,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CartForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\CartForm.cs",
-              "RelativeDocumentMoniker": "CartForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\CartForm.cs",
-              "RelativeToolTip": "CartForm.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAQwBgAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "SelectBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\SelectBookForm.cs",
+              "RelativeDocumentMoniker": "SelectBookForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\SelectBookForm.cs",
+              "RelativeToolTip": "SelectBookForm.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwLAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:15:12.942Z",
+              "WhenOpened": "2025-11-12T11:07:44.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RegisterForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "RegisterForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\RegisterForm.cs",
-              "RelativeToolTip": "RegisterForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "FindEmailForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\FindEmailForm.cs",
+              "RelativeDocumentMoniker": "FindEmailForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\FindEmailForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FindEmailForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T07:39:39.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T10:48:13.986Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "RentalReservationForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs",
-              "RelativeDocumentMoniker": "RentalReservationForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs",
-              "RelativeToolTip": "RentalReservationForm.cs",
-              "ViewState": "AgIAANgBAAAAAAAAAAAYwOABAAAVAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "FindPasswordForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\FindPasswordForm.cs",
+              "RelativeDocumentMoniker": "FindPasswordForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\FindPasswordForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FindPasswordForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:02:35.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T10:48:23.043Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "BookMapForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookMapForm.cs",
               "RelativeDocumentMoniker": "BookMapForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookMapForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "BookMapForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T03:10:41.75Z",
@@ -532,11 +664,185 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAuwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:49:26.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FindPasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\FindPasswordForm.cs",
+              "RelativeDocumentMoniker": "FindPasswordForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\FindPasswordForm.cs",
+              "RelativeToolTip": "FindPasswordForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAIwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:48:24.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookListForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookListForm.cs",
+              "RelativeDocumentMoniker": "BookListForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookListForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BookListForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:03:10.295Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookListForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookListForm.cs",
+              "RelativeDocumentMoniker": "BookListForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookListForm.cs",
+              "RelativeToolTip": "BookListForm.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAUwHsBAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:09:52.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FindEmailForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\FindEmailForm.cs",
+              "RelativeDocumentMoniker": "FindEmailForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\FindEmailForm.cs",
+              "RelativeToolTip": "FindEmailForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:48:15.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:01:55.531Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAUwE0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:39:27.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RegisterForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\RegisterForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "RegisterForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:13.248Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAIwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:39:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:39:26.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:13.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\DatabaseConfig.cs",
+              "RelativeToolTip": "DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:24:59.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AGomProject",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AGomProject.csproj",
+              "RelativeDocumentMoniker": "AGomProject.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AGomProject.csproj",
+              "RelativeToolTip": "AGomProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:14:52.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AIChatForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AIChatForm.Designer.cs",
+              "RelativeDocumentMoniker": "AIChatForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\AIChatForm.Designer.cs",
+              "RelativeToolTip": "AIChatForm.Designer.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAgwNkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:47:40.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "BookMapForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookMapForm.cs",
               "RelativeDocumentMoniker": "BookMapForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookMapForm.cs",
               "RelativeToolTip": "BookMapForm.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAYwEIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -545,11 +851,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 50,
               "Title": "MyPageForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MyPageForm.Designer.cs",
               "RelativeDocumentMoniker": "MyPageForm.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MyPageForm.Designer.cs",
               "RelativeToolTip": "MyPageForm.Designer.cs",
               "ViewState": "AgIAADMCAAAAAAAAAAAUwEcCAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -558,11 +864,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 51,
               "Title": "BookMapForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookMapForm.Designer.cs",
               "RelativeDocumentMoniker": "BookMapForm.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookMapForm.Designer.cs",
               "RelativeToolTip": "BookMapForm.Designer.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -571,11 +877,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 52,
               "Title": "MapForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MapForm.Designer.cs",
               "RelativeDocumentMoniker": "MapForm.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\MapForm.Designer.cs",
               "RelativeToolTip": "MapForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -584,27 +890,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 53,
               "Title": "BookMapForm.resx",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookMapForm.resx",
               "RelativeDocumentMoniker": "BookMapForm.resx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.resx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_Self-Driving-Car\\AGom-Library\\BookMapForm.resx",
               "RelativeToolTip": "BookMapForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-11-11T03:20:26.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "BookBorrowTrendForm .cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookBorrowTrendForm .cs",
-              "RelativeDocumentMoniker": "BookBorrowTrendForm .cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookBorrowTrendForm .cs",
-              "RelativeToolTip": "BookBorrowTrendForm .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:11:54.668Z",
               "EditorCaption": ""
             }
           ]

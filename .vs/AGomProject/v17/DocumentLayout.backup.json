@@ -3,27 +3,79 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\AGomProject1206\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AGomProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\loanstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:loanstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\memberinfoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:memberinfoeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\membermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:membermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AGomProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:aichatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\aichatform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,24 +94,12 @@
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:selectbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mypageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -72,10 +112,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\rentalreservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,8 +146,7 @@
       "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:bookborrowtrendform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|C:\\Users\\user\\Desktop\\AGomProject1206\\mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|solutionrelative:mapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EE346B44-4583-4E87-A7C3-8496BE5648E9}|AGomProject.csproj|c:\\users\\user\\desktop\\agomproject1206\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -121,35 +156,244 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanStatusForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoanStatusForm.cs",
+              "RelativeDocumentMoniker": "LoanStatusForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoanStatusForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "LoanStatusForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:34.71Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberInfoEditForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MemberInfoEditForm.cs",
+              "RelativeDocumentMoniker": "MemberInfoEditForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MemberInfoEditForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MemberInfoEditForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:30.852Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberManagementForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MemberManagementForm.cs",
+              "RelativeDocumentMoniker": "MemberManagementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MemberManagementForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MemberManagementForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:29.541Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.cs",
+              "RelativeDocumentMoniker": "MapForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MapForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:03:47.908Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:01:55.531Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "LoginForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:39:26.008Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAAAEMBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:39:27.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:13.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewBookForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\NewBookForm.cs",
+              "RelativeDocumentMoniker": "NewBookForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\NewBookForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "NewBookForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:17.343Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\RegisterForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "RegisterForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:13.248Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\StatisticsForm.cs",
+              "RelativeToolTip": "StatisticsForm.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAswIsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:03.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatisticsForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\StatisticsForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "StatisticsForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:28:02.128Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AIChatForm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs",
               "RelativeDocumentMoniker": "AIChatForm.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs",
               "RelativeToolTip": "AIChatForm.cs",
-              "ViewState": "AgIAAPQAAAAAAAAAAAAuwBsBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswKgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T10:44:26.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AIChatForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs",
-              "RelativeDocumentMoniker": "AIChatForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "AIChatForm.cs [\uB514\uC790\uC778]",
+              "DocumentIndex": 8,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\DatabaseConfig.cs",
+              "RelativeToolTip": "DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T11:00:02.186Z"
+              "WhenOpened": "2025-11-11T10:24:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SelectBookForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs",
+              "RelativeDocumentMoniker": "SelectBookForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "SelectBookForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:07:43.242Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "RentalReservationForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs",
+              "RelativeDocumentMoniker": "RentalReservationForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "RentalReservationForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:00:59.992Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AGomProject",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AGomProject.csproj",
+              "RelativeDocumentMoniker": "AGomProject.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AGomProject.csproj",
+              "RelativeToolTip": "AGomProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:14:52.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookListForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs",
+              "RelativeDocumentMoniker": "BookListForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BookListForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:03:10.295Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AdminForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "AdminForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:03:16.068Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "SelectBookForm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs",
               "RelativeDocumentMoniker": "SelectBookForm.cs",
@@ -157,68 +401,24 @@
               "RelativeToolTip": "SelectBookForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:07:44.336Z"
+              "WhenOpened": "2025-11-12T11:07:44.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookListForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs",
-              "RelativeDocumentMoniker": "BookListForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "BookListForm.cs [\uB514\uC790\uC778]",
+              "DocumentIndex": 18,
+              "Title": "AIChatForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs",
+              "RelativeDocumentMoniker": "AIChatForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "AIChatForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T11:03:10.295Z"
+              "WhenOpened": "2025-11-11T11:00:02.186Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DatabaseConfig.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\DatabaseConfig.cs",
-              "RelativeDocumentMoniker": "DatabaseConfig.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\DatabaseConfig.cs",
-              "RelativeToolTip": "DatabaseConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:24:59.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
-              "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "LoginForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T07:39:26.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
-              "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\LoginForm.cs",
-              "RelativeToolTip": "LoginForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T07:39:27.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AGomProject",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AGomProject.csproj",
-              "RelativeDocumentMoniker": "AGomProject.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AGomProject.csproj",
-              "RelativeToolTip": "AGomProject.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-13T03:14:52.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "AIChatForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AIChatForm.Designer.cs",
               "RelativeDocumentMoniker": "AIChatForm.Designer.cs",
@@ -226,11 +426,12 @@
               "RelativeToolTip": "AIChatForm.Designer.cs",
               "ViewState": "AgIAALkAAAAAAAAAAAAgwNkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:47:40.083Z"
+              "WhenOpened": "2025-11-12T10:47:40.083Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "MyPageForm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.cs",
               "RelativeDocumentMoniker": "MyPageForm.cs",
@@ -238,11 +439,12 @@
               "RelativeToolTip": "MyPageForm.cs",
               "ViewState": "AgIAAJgBAAAAAAAAAAAswKwBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:11:55.042Z"
+              "WhenOpened": "2025-11-11T03:11:55.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "BookListForm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookListForm.cs",
               "RelativeDocumentMoniker": "BookListForm.cs",
@@ -250,66 +452,36 @@
               "RelativeToolTip": "BookListForm.cs",
               "ViewState": "AgIAAKsAAAAAAAAAAAAuwMwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:09:52.666Z"
+              "WhenOpened": "2025-11-12T11:09:52.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AdminForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\AdminForm.cs",
-              "RelativeDocumentMoniker": "AdminForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\AdminForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "AdminForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T11:03:16.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SelectBookForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs",
-              "RelativeDocumentMoniker": "SelectBookForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\SelectBookForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "SelectBookForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:07:43.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "MyPageForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.cs",
               "RelativeDocumentMoniker": "MyPageForm.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "MyPageForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T07:24:43.755Z"
+              "WhenOpened": "2025-11-11T07:24:43.755Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MainForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:01:55.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "CartForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\CartForm.cs",
               "RelativeDocumentMoniker": "CartForm.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\CartForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "CartForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:15:11.77Z"
+              "WhenOpened": "2025-11-12T02:15:11.77Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "CartForm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\CartForm.cs",
               "RelativeDocumentMoniker": "CartForm.cs",
@@ -317,11 +489,12 @@
               "RelativeToolTip": "CartForm.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAQwBgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:15:12.942Z"
+              "WhenOpened": "2025-11-12T02:15:12.942Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RegisterForm.cs",
               "RelativeDocumentMoniker": "RegisterForm.cs",
@@ -329,22 +502,12 @@
               "RelativeToolTip": "RegisterForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T07:39:39.743Z"
+              "WhenOpened": "2025-11-11T07:39:39.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RentalReservationForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs",
-              "RelativeDocumentMoniker": "RentalReservationForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "RentalReservationForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:00:59.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "RentalReservationForm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\RentalReservationForm.cs",
               "RelativeDocumentMoniker": "RentalReservationForm.cs",
@@ -352,22 +515,24 @@
               "RelativeToolTip": "RentalReservationForm.cs",
               "ViewState": "AgIAANgBAAAAAAAAAAAYwOABAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:02:35.126Z"
+              "WhenOpened": "2025-11-11T03:02:35.126Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "BookMapForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.cs",
               "RelativeDocumentMoniker": "BookMapForm.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "BookMapForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:10:41.75Z"
+              "WhenOpened": "2025-11-11T03:10:41.75Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "BookMapForm.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.cs",
               "RelativeDocumentMoniker": "BookMapForm.cs",
@@ -375,11 +540,12 @@
               "RelativeToolTip": "BookMapForm.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAYwEIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:43:40.069Z"
+              "WhenOpened": "2025-11-10T04:43:40.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "MyPageForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MyPageForm.Designer.cs",
               "RelativeDocumentMoniker": "MyPageForm.Designer.cs",
@@ -387,11 +553,12 @@
               "RelativeToolTip": "MyPageForm.Designer.cs",
               "ViewState": "AgIAADMCAAAAAAAAAAAUwEcCAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T06:02:31.425Z"
+              "WhenOpened": "2025-11-11T06:02:31.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "BookMapForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.Designer.cs",
               "RelativeDocumentMoniker": "BookMapForm.Designer.cs",
@@ -399,11 +566,12 @@
               "RelativeToolTip": "BookMapForm.Designer.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:20:28.13Z"
+              "WhenOpened": "2025-11-11T03:20:28.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "MapForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.Designer.cs",
               "RelativeDocumentMoniker": "MapForm.Designer.cs",
@@ -411,22 +579,24 @@
               "RelativeToolTip": "MapForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:41:05.476Z"
+              "WhenOpened": "2025-11-11T03:41:05.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "BookMapForm.resx",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.resx",
               "RelativeDocumentMoniker": "BookMapForm.resx",
               "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookMapForm.resx",
               "RelativeToolTip": "BookMapForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-11T03:20:26.914Z"
+              "WhenOpened": "2025-11-11T03:20:26.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "BookBorrowTrendForm .cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\BookBorrowTrendForm .cs",
               "RelativeDocumentMoniker": "BookBorrowTrendForm .cs",
@@ -434,18 +604,8 @@
               "RelativeToolTip": "BookBorrowTrendForm .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:11:54.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MapForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.cs",
-              "RelativeDocumentMoniker": "MapForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AGomProject1206\\MapForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "MapForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T03:03:47.908Z"
+              "WhenOpened": "2025-11-11T03:11:54.668Z",
+              "EditorCaption": ""
             }
           ]
         }
