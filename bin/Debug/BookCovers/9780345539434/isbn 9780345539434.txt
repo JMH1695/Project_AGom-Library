@@ -1,0 +1,6 @@
+isbn : 9780345539434
+도서 제목 : Cosmos
+저자 : Sagan, Carl , Tyson, Neil Degrasse , Druyan, Ann
+카테고리 : 과학/공학
+언어 : 영어
+전자책여부 : True

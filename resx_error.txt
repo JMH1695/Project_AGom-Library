@@ -1,0 +1,4 @@
+powershell 관리자 권한으로 키고
+
+Get-ChildItem "C:\Users\user\Desktop\AGomProject1206" -Recurse | Unblock-File
+

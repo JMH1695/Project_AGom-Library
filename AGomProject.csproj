@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE346B44-4583-4E87-A7C3-8496BE5648E9}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>AGomProject</RootNamespace>
+    <AssemblyName>AGomProject</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Web.WebView2.Core, Version=1.0.3595.46, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Web.WebView2.1.0.3595.46\lib\net462\Microsoft.Web.WebView2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.WinForms, Version=1.0.3595.46, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Web.WebView2.1.0.3595.46\lib\net462\Microsoft.Web.WebView2.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.Wpf, Version=1.0.3595.46, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Web.WebView2.1.0.3595.46\lib\net462\Microsoft.Web.WebView2.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AIChatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AIChatForm.Designer.cs">
+      <DependentUpon>AIChatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookBorrowTrendForm .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookBorrowTrendForm .Designer.cs">
+      <DependentUpon>BookBorrowTrendForm .cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookListForm.Designer.cs">
+      <DependentUpon>BookListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookMapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookMapForm.Designer.cs">
+      <DependentUpon>BookMapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CartForm.Designer.cs">
+      <DependentUpon>CartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePasswordForm.Designer.cs">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseConfig.cs" />
+    <Compile Include="EbookViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EbookViewerForm.Designer.cs">
+      <DependentUpon>EbookViewerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBookForm.Designer.cs">
+      <DependentUpon>EditBookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindEmailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindEmailForm.Designer.cs">
+      <DependentUpon>FindEmailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindPasswordForm.Designer.cs">
+      <DependentUpon>FindPasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryInventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryInventoryForm.Designer.cs">
+      <DependentUpon>LibraryInventoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryManagementForm.Designer.cs">
+      <DependentUpon>LibraryManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoanStatusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoanStatusForm.Designer.cs">
+      <DependentUpon>LoanStatusForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapForm.Designer.cs">
+      <DependentUpon>MapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberInfoEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberInfoEditForm.Designer.cs">
+      <DependentUpon>MemberInfoEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberManagementForm.Designer.cs">
+      <DependentUpon>MemberManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyPageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyPageForm.Designer.cs">
+      <DependentUpon>MyPageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewBookForm.Designer.cs">
+      <DependentUpon>NewBookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RentalReservationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RentalReservationForm.Designer.cs">
+      <DependentUpon>RentalReservationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectBookForm.Designer.cs">
+      <DependentUpon>SelectBookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatisticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatisticsForm.Designer.cs">
+      <DependentUpon>StatisticsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AIChatForm.resx">
+      <DependentUpon>AIChatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookBorrowTrendForm .resx">
+      <DependentUpon>BookBorrowTrendForm .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookListForm.resx">
+      <DependentUpon>BookListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookMapForm.resx">
+      <DependentUpon>BookMapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CartForm.resx">
+      <DependentUpon>CartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePasswordForm.resx">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBookForm.resx">
+      <DependentUpon>EditBookForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindEmailForm.resx">
+      <DependentUpon>FindEmailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindPasswordForm.resx">
+      <DependentUpon>FindPasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryInventoryForm.resx">
+      <DependentUpon>LibraryInventoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryManagementForm.resx">
+      <DependentUpon>LibraryManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoanStatusForm.resx">
+      <DependentUpon>LoanStatusForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapForm.resx">
+      <DependentUpon>MapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberInfoEditForm.resx">
+      <DependentUpon>MemberInfoEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberManagementForm.resx">
+      <DependentUpon>MemberManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyPageForm.resx">
+      <DependentUpon>MyPageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewBookForm.resx">
+      <DependentUpon>NewBookForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RentalReservationForm.resx">
+      <DependentUpon>RentalReservationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectBookForm.resx">
+      <DependentUpon>SelectBookForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticsForm.resx">
+      <DependentUpon>StatisticsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yellow.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\Design\Icon\Cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\Design\Icon\AIChat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\Design\Icon\ballon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\Design\UI\B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\Design\UI\O.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\Design\UI\K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image\Design\UI\S.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\Microsoft.Web.WebView2.1.0.3595.46\build\Microsoft.Web.WebView2.targets" Condition="Exists('packages\Microsoft.Web.WebView2.1.0.3595.46\build\Microsoft.Web.WebView2.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>이 프로젝트는 이 컴퓨터에 없는 NuGet 패키지를 참조합니다. 해당 패키지를 다운로드하려면 NuGet 패키지 복원을 사용하십시오. 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=322105를 참조하십시오. 누락된 파일은 {0}입니다.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.Web.WebView2.1.0.3595.46\build\Microsoft.Web.WebView2.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Web.WebView2.1.0.3595.46\build\Microsoft.Web.WebView2.targets'))" />
+  </Target>
+</Project>
