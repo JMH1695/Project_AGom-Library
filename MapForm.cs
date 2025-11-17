@@ -14,7 +14,7 @@ namespace AGomProject
         private List<string> isbnList;
         private int memberId;
 
-        private const string NAVER_MAP_CLIENT_ID = "q0ji1uzqd2";
+        private const string NAVER_MAP_CLIENT_ID = "Your-API";
 
         public MapForm(List<string> isbnList, int memberId)
         {
